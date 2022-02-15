@@ -10,7 +10,7 @@
 
 ![DevPP32 GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPP32&show_icons=true&theme=radical)
 
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/No87IRlCv9BrrDg8Ia/giphy.gif">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Tx7K2M7IdqCRtAk3eH/giphy.gif">
 
 ### Tecnologias que Estou estudando.
 
